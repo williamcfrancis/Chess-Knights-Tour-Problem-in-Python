@@ -8,4 +8,4 @@ The chess knights tour problem was tackled by using three different algorithms:
 2. Brute force (open loop and closed loop)
 3. Warnsdorff
 
-Find further details on performance comparison of the algorithms in the project report in the repository.
+Find further details on performance comparison of the algorithms in the project report given in the repository.
